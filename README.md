@@ -34,8 +34,8 @@ pip install tensorflow keras scikit-image [optional] SimpleITK
 
 2. **Run the Script:**
    Execute `main.py`, which demonstrates the complete workflow. Ensure to modify the script paths to match your downloaded dataset and adjust hyperparameters as necessary.
-   
-   ```bash
+
+```bash
    python main.py
 ```
 
