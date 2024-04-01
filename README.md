@@ -1,7 +1,7 @@
 # Lung Nodule Classification using Deep Learning
 
 ## Overview
-Lung cancer remains a significant global health challenge, emphasizing the critical need for early detection methods. This project proposes a deep learning solution for classifying lung nodules found in chest CT scans, potentially revolutionizing early cancer diagnosis.
+Lung cancer remains a significant global health challenge, emphasizing the critical need for early detection methods. This project proposes a deep-learning solution for classifying lung nodules found in chest CT scans, potentially revolutionizing early cancer diagnosis.
 
 ## Approach
 Our approach comprises three key stages:
@@ -28,14 +28,5 @@ pip install tensorflow keras scikit-image [optional] SimpleITK
 **Note:** Specific versions of the libraries may be required depending on your project setup.
 
 ## Usage
-
-1. **Download the Dataset:**
-   Obtain the LIDC-IDRI dataset (details on how to access the data can be found [here](link to LIDC-IDRI dataset information)).
-
-2. **Run the Script:**
-   Execute `main.py`, which demonstrates the complete workflow. Ensure to modify the script paths to match your downloaded dataset and adjust hyperparameters as necessary.
-
-```bash
-   python main.py
-```
+Use the ipynb notebook [uploaded](https://github.com/AYUSH27112021/Lung-Nodule-Detection/blob/main/model%20deployment.ipynb) .
 
